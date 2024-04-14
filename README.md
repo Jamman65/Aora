@@ -59,7 +59,7 @@ Aora - A modern fullstack mobile application developed using React Native, Tailw
 
 ## <a name="links">🔗 Links</a>
 
-- [Screenshots](https://github.com/Jamman65/BrainStormAI/wiki#brainstorm-screenshots)
+- [Screenshots](https://github.com/Jamman65/Aora/wiki#aora-screenshots)
 - [Portfolio](https://james-owen-portfolio.com)
 - [LinkedIn](https://www.linkedin.com/in/james-owen-7b909b1b1/)
 
