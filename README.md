@@ -11,12 +11,13 @@
 
 Aora - A modern fullstack mobile application developed using React Native, Tailwind CSS, Expo and Appwrite focused on delivering a visually appealing and seamless user experience allowing users to scroll through images and videos, upload their own content, register for an account and search for specific content.
 
-<div align="center">
+<div>
   <br />
-    <img src="https://github.com/Jamman65/Aora/assets/71873396/c1e4e0f9-d6db-4682-8b2a-2d0548f1ab11" alt="Project Banner">
-    </a>
+  <img src="https://github.com/Jamman65/Aora/assets/71873396/c1e4e0f9-d6db-4682-8b2a-2d0548f1ab11" alt="Project Banner" width="400" style="margin-right: 20rem;">
+  <img src="https://github.com/Jamman65/Aora/assets/71873396/65e9423a-52f5-457b-928e-f2e7422211dd" alt="Project Banner" width="400">
   <br />
 </div>
+
 
 
 
